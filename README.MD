@@ -62,8 +62,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `Gemini`
 
 ## 👨‍💻 Expert
-
-    <a 
+<p>
+   <a 
         href="https://github.com/leo013">
         GitHub
     </a>
@@ -72,8 +72,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/leone-dos-reis-silva-457a83162/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;</p>
-</p>
+    &nbsp;|&nbsp;
+    </p>
 <br/><br/>
 <p>
 
